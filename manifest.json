@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Extension",
+  "description": "This extension will analyze a page using StackOverflow",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": {
+   	"18":"shahzad-icon.png"
+   },
+   "default_popup": "popup.html"
+  },
+  "icons" : {
+    "48" : "logo.png"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
