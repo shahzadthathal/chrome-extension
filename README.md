@@ -16,7 +16,7 @@ This is my first chrome extension.
   Click on "Load unpacked extension..." and select directory "chrome-extension"
 
 5.
- You should immediately see the extension show up as a Browser Action with  icon in the toolbar window of the current tab.
+ You wil see the extension dispaly as a Browser Action with  icon in the toolbar window of the current tab.
  
  **Just chill...!!!** :lollipop:
  
